@@ -1,0 +1,14 @@
+html,
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont,
+    Roboto, 'Oxygen-sans', Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  background: #e6fffa7a;
+}
