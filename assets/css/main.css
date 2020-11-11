@@ -1,7 +1,12 @@
+:root {
+  --primary: #ea4c89;
+  --primary-100: #fdedf3;
+}
+
 html,
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont,
-    Roboto, 'Oxygen-sans', Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, Roboto, 'Oxygen-sans',
+    Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
   -moz-box-sizing: border-box; /* Firefox, other Gecko */
   box-sizing: border-box; /* Opera/IE 8+ */
@@ -10,5 +15,9 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
-  background: #e6fffa7a;
+  background: #fdedf34a;
+}
+
+.font-crimson {
+  font-family: 'Crimson Text', serif;
 }

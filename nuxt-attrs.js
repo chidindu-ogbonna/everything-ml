@@ -32,7 +32,7 @@ export const meta = [
     hid: 'twitter:image',
     name: 'twitter:image',
     content:
-      'https://res.cloudinary.com/cheapflix/image/upload/v1605101793/everythingml-card.png',
+      'https://res.cloudinary.com/cheapflix/image/upload/v1605125597/ecard.png',
   },
   {
     hid: 'twitter:image:alt',
@@ -56,7 +56,7 @@ export const meta = [
     hid: 'og:image',
     property: 'og:image',
     content:
-      'https://res.cloudinary.com/cheapflix/image/upload/v1605101793/everythingml-card.png',
+      'https://res.cloudinary.com/cheapflix/image/upload/v1605125597/ecard.png',
   },
   {
     hid: 'og:site_name',
