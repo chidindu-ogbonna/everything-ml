@@ -2,11 +2,9 @@
   <div
     class="flex flex-col items-start justify-center max-w-screen-sm min-h-screen px-4 mx-auto"
   >
-    <div class="flex items-center mb-8">
+    <div class="flex items-center mb-8 text-primary">
       <icon-logo class="w-16 h-16 mr-4 md:w-20 md:h-20"></icon-logo>
-      <div class="text-3xl font-extrabold md:text-4xl text-primary">
-        Everything ML
-      </div>
+      <div class="text-3xl font-extrabold md:text-4xl">Everything ML</div>
     </div>
 
     <div class="mb-8">
@@ -15,7 +13,7 @@
       </h1>
 
       <p class="mb-4">
-        The important things you NEED to know about
+        Important things you NEED to know about
         <span class="highlight">machine learning</span> and
         <span class="highlight">data science</span> in production, packaged in a
         SHORT newsletter.
@@ -57,7 +55,7 @@
 
       <div>
         <a
-          class="inline-flex items-center px-2 py-4 cursor-pointer text-primary hover:underline"
+          class="inline-flex items-center px-2 py-4 text-lg cursor-pointer text-primary hover:underline"
           href="https://everythingml.substack.com/welcome?no_cover=true"
         >
           Let me read it first

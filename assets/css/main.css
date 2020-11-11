@@ -1,6 +1,8 @@
 :root {
   --primary: #ea4c89;
-  --primary-100: #fdedf3;
+  --primary-100: #fdedf34a;
+  /* --primary: #234e52;
+  --primary-100: #e6fffa7a; */
 }
 
 html,
@@ -15,7 +17,8 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
-  background: #fdedf34a;
+  /* background: #fdedf34a; */
+  background: var(--primary-100);
 }
 
 .font-crimson {
